@@ -1,15 +1,22 @@
 # 🚀 RYLIG Network Scanner
-A high-speed, multi-threaded IP ping scanner written in Python.
+
+A professional, high-speed, multi-threaded IP ping scanner written in Python with CIDR range support from file.
 
 ## ✨ Features
-- **Multi-threaded:** Fast scanning with custom thread count.
-- **CIDR Support:** Scan entire /24 ranges easily.
-- **Real-time Logging:** Shows results instantly and saves them to `active.txt`.
-- **Professional UI:** Clean ASCII banner and colored output.
 
-## 🛠 Installation & Setup
+- **Multi-threaded:** Fast scanning with custom thread count
+- **CIDR Support from file:** Define multiple ranges in `range.txt`
+- **Real-time output:** Live terminal results
+- **Auto-save:** All active IPs saved to `active.txt`
+- **Cross-platform:** Works on Windows, Linux, macOS
 
-### 1. Clone the repository
+## 📋 Requirements
+
+- Python 3.6+
+- No external libraries required (uses only standard library)
+
+## 🛠 Installation
+
 ```bash
-git clone [https://github.com/YOUR_USERNAME/RYLIG-Scanner.git](https://github.com/YOUR_USERNAME/RYLIG-Scanner.git)
-cd RYLIG-Scanner
+git clone https://github.com/rylig/NETWORK-PING-SCANNER.git
+cd NETWORK-PING-SCANNER
