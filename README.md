@@ -1,5 +1,7 @@
 # 🚀 Rylig CDIR Scanner
+
 [English](README.md) | [فارسی](README-FA.md)
+
 ![rylig CDIR Scanner Screenshot](https://github.com/rylig/rylig-CDIR-scanner/blob/main/screenshot.jpg?raw=true)
 
 A fast, efficient, multi-threaded IP ping scanner written in Python. Designed for simplicity, performance, and practical network analysis.
