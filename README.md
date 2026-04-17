@@ -1,4 +1,4 @@
-# 🚀 RYLIG Network Ping Scanner
+# 🚀 Rylig CDIR Scanner
 
 ![rylig CDIR Scanner Screenshot](https://github.com/rylig/rylig-CDIR-scanner/blob/main/screenshot.jpg?raw=true)
 
